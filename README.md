@@ -96,7 +96,6 @@
 
 ### 📝 **Project Descriptions**
 > **Tech Blog** - A blog where I share my coding experiences and tutorials
-> **AI Chatbot** - A project using AI to create an interactive chatbot
 
 </div>
 
