@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi 👋, I'm developer51709</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm developer51709</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   <blockquote style="display: inline-block; text-align: left; border-left: 4px solid #9370DB; padding-left: 1rem; margin: 1rem; font-style: italic;">
