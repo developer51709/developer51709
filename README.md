@@ -32,7 +32,7 @@
 ### 💼 **Professional Links**
 <!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)-->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developer51709)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/developer51709)
+[![Website](https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://developer51709.gt.tc)
 
 </div>
 
