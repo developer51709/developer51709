@@ -27,7 +27,7 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,github,git,discord,bash,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,css,html,nodejs,github,git,discord,bash,vscode,linux" />
 </p>
 
 ---
