@@ -80,3 +80,22 @@ Select:
 ✔️ Allow GitHub Actions to create and approve pull requests (optional)
 
 This allows the workflow to push updates to your README.
+
+---
+
+## 🔄 How the Quote Rotation Works
+The script uses the day of the year to pick a quote:
+
+```Code
+quoteIndex = dayOfYear % totalQuotes
+```
+
+This ensures:
+
+A new quote every day
+
+No repeats until the list cycles
+
+Deterministic behavior (same quote on the same day each year)
+
+If you add or remove quotes, the rotation automatically adjusts.
