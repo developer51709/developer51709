@@ -116,7 +116,7 @@
 
 <div align="center">
 
-> *"I don't know what to say here so I will worry about it later"* – developer51709
+> <!--QUOTE_PLACEHOLDER-->
 
 </div>
 
