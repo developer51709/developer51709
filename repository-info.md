@@ -99,3 +99,47 @@ No repeats until the list cycles
 Deterministic behavior (same quote on the same day each year)
 
 If you add or remove quotes, the rotation automatically adjusts.
+
+---
+
+## 🧪 Running the Workflow Manually
+You can trigger the update anytime:
+
+Go to the Actions tab
+
+Select Update Quote of the Day
+
+Click Run workflow
+
+This is useful for testing or previewing changes.
+
+---
+
+## 🎨 Customization Options
+You can easily modify the system:
+
+- **Use random quotes** instead of day‑based rotation
+
+- **Add categories** (motivation, humor, tech, etc.)
+
+- **Format quotes differently** (bold, italic, emojis)
+
+Fetch quotes from an API
+
+Add logging to track which quote was used each day
+
+If you want help implementing any of these, just ask.
+
+---
+
+## 📄 License
+All quotes in `quotes.json` are original and safe to use anywhere.
+You may modify, redistribute, or reuse this system freely.
+
+---
+
+## 🙌 Final Notes
+This repository is designed to be simple, reliable, and easy to extend.
+Once set up, it runs entirely on its own — keeping your GitHub profile fresh every day.
+
+If you want enhancements, improvements, or new features, feel free to request them.
