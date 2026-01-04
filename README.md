@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://developer51709.gt.tc">🌐 Website</a> •
-  <a href="mailto:your-email-here">📧 Email</a> •
+  <a href="mailto:developer51709@proton.me">📧 Email</a> •
   <a href="https://github.com/developer51709?tab=followers">⭐ Follow</a>
 </p>
 
@@ -80,7 +80,7 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 ## 📬 Coding Requests
 I’m currently accepting coding requests for Discord bots, automation tools, and small utilities.
 
-📧 **Email:** your-email-here
+📧 **Email:** developer51709@proton.me
 
 ---
 
