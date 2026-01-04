@@ -146,4 +146,4 @@ If you want enhancements, improvements, or new features, feel free to request th
 
 > ## Credits:
 > This code was made by:
-> [@developer51709](https://github.com/developer51709)
+> [developer51709](https://github.com/developer51709)
