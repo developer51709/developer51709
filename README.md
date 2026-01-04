@@ -40,7 +40,7 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 | Project | Description |
 |--------|-------------|
 | **[Terminal Announcement Bot](https://github.com/developer51709/Terminal-Based-Announcement-Bot-For-Discord)** | CLI tool for sending announcements to Discord servers. |
-| **Discord DM Bot** | Automates sending DMs to server members with customizable settings. |
+| **[Discord DM Bot](https://github.com/developer51709/Discord-DM-Bot)** | Automates sending DMs to server members with customizable settings. |
 | **Auto-Responder Bot** | Keyword-based smart reply system. |
 
 </details>
