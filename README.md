@@ -12,14 +12,14 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me - Who Am I? 
 
 - 🧑‍🎓 **developer51709**, **16 years old**
-- 💻 **Software Developer** passionate about **Python**, **AI**, and **Cybersecurity** 🧠
+- 💻 **Software Developer** passionate about **Python**, **AI**, and **Cybersecurity**
 - ✨ I'm here to **build** not just projects, but a **legacy** 🚀
-- 🌱 Always **learning**, breaking limits and chasing mastery 🧗
+- 🌱 Always **learning**, breaking limits and chasing mastery
 
 
 ---
 
-## 🔗 **Let's Connect!** 🔗
+## 🔗 **Let's Connect!**
 
 <div align="center">
 
@@ -71,8 +71,6 @@
 ### 📊 **Profile Stats**
 ![Followers](https://img.shields.io/github/followers/developer51709?label=Followers&style=social)
 ![Repos](https://img.shields.io/badge/Public_Repos-22-green?style=flat-square&logo=github)
-
-### 🏅 **Achievements**
 ![Profile Views](https://komarev.com/ghpvc/?username=developer51709&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 </div>
