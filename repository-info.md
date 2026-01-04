@@ -65,11 +65,13 @@ package.json
     update-quote.yml
 ```
 
+---
+
 ### 3. Ensure GitHub Actions has write permissions
 
 Go to:
 
-Settings → Actions → General → Workflow permissions
+**Settings → Actions → General → Workflow permissions**
 
 Select:
 
