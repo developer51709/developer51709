@@ -141,3 +141,9 @@ This repository is designed to be simple, reliable, and easy to extend.
 Once set up, it runs entirely on its own — keeping your GitHub profile fresh every day.
 
 If you want enhancements, improvements, or new features, feel free to request them.
+
+---
+
+> ## Credits:
+> This code was made by:
+> [@developer51709](https://github.com/developer51709)
