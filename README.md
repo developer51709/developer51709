@@ -117,9 +117,4 @@
 <div align="center">
 
 > <!--QUOTE_PLACEHOLDER-->
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developer51709&label=Visitors&color=brightgreen" />
-</p>
+Your future is shaped by the choices you make today.
