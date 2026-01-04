@@ -46,9 +46,8 @@
 
 ---
 
-## 📊 **GitHub Stats** 📈
+## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer51709&show_icons=true)
 <p align="center">
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developer51709&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="developer51709's Stats" />-->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=developer51709&theme=dark&hide_border=false" alt="developer51709's Streak" />
