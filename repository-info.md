@@ -105,11 +105,11 @@ If you add or remove quotes, the rotation automatically adjusts.
 ## 🧪 Running the Workflow Manually
 You can trigger the update anytime:
 
-Go to the Actions tab
+1. Go to the Actions tab
 
-Select Update Quote of the Day
+2. Select Update Quote of the Day
 
-Click Run workflow
+3. Click Run workflow
 
 This is useful for testing or previewing changes.
 
@@ -124,9 +124,7 @@ You can easily modify the system:
 
 - **Format quotes differently** (bold, italic, emojis)
 
-Fetch quotes from an API
-
-Add logging to track which quote was used each day
+- **Fetch quotes from an API**
 
 If you want help implementing any of these, just ask.
 
