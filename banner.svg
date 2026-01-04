@@ -1,7 +1,6 @@
 <svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" width="100%">
 
   <defs>
-    <!-- Animated gradient background -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0f0c29">
         <animate attributeName="stop-color" values="#0f0c29; #302b63; #24243e; #0f0c29" dur="12s" repeatCount="indefinite"/>
@@ -26,43 +25,39 @@
 
       text {
         font-family: sans-serif;
-        font-size: 48px;
+        font-size: 80px; /* Scales correctly now */
         animation: glow 4s infinite ease-in-out;
       }
     </style>
   </defs>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#bg)" />
+  <rect width="1200" height="260" fill="url(#bg)" />
 
-  <!-- Particle system -->
+  <!-- Particles -->
   <g>
-    <!-- 20 floating particles -->
-    <!-- You can duplicate or adjust these -->
-    <circle cx="10%" cy="70%" r="3" fill="#ffffff" style="animation: float 6s infinite ease-in-out; animation-delay: 0s"/>
-    <circle cx="20%" cy="50%" r="2" fill="#ffffff" style="animation: float 7s infinite ease-in-out; animation-delay: 1s"/>
-    <circle cx="30%" cy="80%" r="4" fill="#ffffff" style="animation: float 5s infinite ease-in-out; animation-delay: 2s"/>
-    <circle cx="40%" cy="60%" r="3" fill="#ffffff" style="animation: float 6s infinite ease-in-out; animation-delay: 3s"/>
-    <circle cx="50%" cy="75%" r="2" fill="#ffffff" style="animation: float 8s infinite ease-in-out; animation-delay: 1.5s"/>
-    <circle cx="60%" cy="55%" r="3" fill="#ffffff" style="animation: float 7s infinite ease-in-out; animation-delay: 2.5s"/>
-    <circle cx="70%" cy="85%" r="4" fill="#ffffff" style="animation: float 6s infinite ease-in-out; animation-delay: 0.5s"/>
-    <circle cx="80%" cy="65%" r="3" fill="#ffffff" style="animation: float 5s infinite ease-in-out; animation-delay: 3.5s"/>
-    <circle cx="90%" cy="78%" r="2" fill="#ffffff" style="animation: float 7s infinite ease-in-out; animation-delay: 2s"/>
+    <circle cx="100" cy="180" r="4" fill="#ffffff" style="animation: float 6s infinite ease-in-out; animation-delay: 0s"/>
+    <circle cx="250" cy="120" r="3" fill="#ffffff" style="animation: float 7s infinite ease-in-out; animation-delay: 1s"/>
+    <circle cx="400" cy="200" r="5" fill="#ffffff" style="animation: float 5s infinite ease-in-out; animation-delay: 2s"/>
+    <circle cx="550" cy="150" r="4" fill="#ffffff" style="animation: float 6s infinite ease-in-out; animation-delay: 3s"/>
+    <circle cx="700" cy="210" r="3" fill="#ffffff" style="animation: float 8s infinite ease-in-out; animation-delay: 1.5s"/>
+    <circle cx="850" cy="130" r="4" fill="#ffffff" style="animation: float 7s infinite ease-in-out; animation-delay: 2.5s"/>
+    <circle cx="1000" cy="220" r="5" fill="#ffffff" style="animation: float 6s infinite ease-in-out; animation-delay: 0.5s"/>
   </g>
 
-  <!-- Parallax waves -->
-  <path d="M0 160 Q 50 140 100 160 T 200 160 T 300 160 T 400 160 T 500 160 T 600 160" fill="none" stroke="#ffffff33" stroke-width="2">
+  <!-- Wave -->
+  <path d="M0 200 Q 150 170 300 200 T 600 200 T 900 200 T 1200 200"
+        fill="none" stroke="#ffffff33" stroke-width="3">
     <animate attributeName="d" dur="6s" repeatCount="indefinite"
       values="
-        M0 160 Q 50 140 100 160 T 200 160 T 300 160 T 400 160 T 500 160 T 600 160;
-        M0 160 Q 50 180 100 160 T 200 160 T 300 160 T 400 160 T 500 160 T 600 160;
-        M0 160 Q 50 140 100 160 T 200 160 T 300 160 T 400 160 T 500 160 T 600 160
+        M0 200 Q 150 170 300 200 T 600 200 T 900 200 T 1200 200;
+        M0 200 Q 150 230 300 200 T 600 200 T 900 200 T 1200 200;
+        M0 200 Q 150 170 300 200 T 600 200 T 900 200 T 1200 200
       "
     />
   </path>
 
   <!-- Text -->
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle">
     developer51709
   </text>
 
