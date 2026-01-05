@@ -1,10 +1,10 @@
-<svg width="500" height="300" viewBox="0 0 500 300"
+<svg width="600" height="300" viewBox="0 0 600 300"
      xmlns="http://www.w3.org/2000/svg">
 
   <rect width="100%" height="100%" fill="black"/>
 
   <!-- COLUMN 1 -->
-  <g transform="translate(40,0)">
+  <g transform="translate(50,0)">
     <text font-family="monospace" font-size="18" fill="#00ff41">
       <tspan x="0" y="20"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>ア</tspan>
       <tspan x="0" y="40"><animate attributeName="opacity" values="1;0.1;1" dur="0.7s" repeatCount="indefinite"/>7</tspan>
@@ -12,11 +12,13 @@
       <tspan x="0" y="80"><animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/>9</tspan>
       <tspan x="0" y="100"><animate attributeName="opacity" values="1;0.4;1" dur="1.1s" repeatCount="indefinite"/>ネ</tspan>
     </text>
-    <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 300" dur="3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 -300" to="0 300"
+                      dur="3s" repeatCount="indefinite"/>
   </g>
 
   <!-- COLUMN 2 -->
-  <g transform="translate(110,0)">
+  <g transform="translate(150,0)">
     <text font-family="monospace" font-size="18" fill="#00ff41">
       <tspan x="0" y="20"><animate attributeName="opacity" values="1;0.3;1" dur="0.8s" repeatCount="indefinite"/>文</tspan>
       <tspan x="0" y="40"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>ラ</tspan>
@@ -24,11 +26,13 @@
       <tspan x="0" y="80"><animate attributeName="opacity" values="1;0.4;1" dur="1.4s" repeatCount="indefinite"/>E</tspan>
       <tspan x="0" y="100"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>日</tspan>
     </text>
-    <animateTransform attributeName="transform" type="translate" from="0 -320" to="0 320" dur="2.6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 -320" to="0 320"
+                      dur="2.6s" repeatCount="indefinite"/>
   </g>
 
   <!-- COLUMN 3 -->
-  <g transform="translate(180,0)">
+  <g transform="translate(250,0)">
     <text font-family="monospace" font-size="18" fill="#00ff41">
       <tspan x="0" y="20"><animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/>ユ</tspan>
       <tspan x="0" y="40"><animate attributeName="opacity" values="1;0.3;1" dur="0.9s" repeatCount="indefinite"/>X</tspan>
@@ -36,7 +40,37 @@
       <tspan x="0" y="80"><animate attributeName="opacity" values="1;0.4;1" dur="0.7s" repeatCount="indefinite"/>5</tspan>
       <tspan x="0" y="100"><animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>9</tspan>
     </text>
-    <animateTransform attributeName="transform" type="translate" from="0 -310" to="0 310" dur="3.4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 -310" to="0 310"
+                      dur="3.4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- COLUMN 4 -->
+  <g transform="translate(350,0)">
+    <text font-family="monospace" font-size="18" fill="#00ff41">
+      <tspan x="0" y="20"><animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>ラ</tspan>
+      <tspan x="0" y="40"><animate attributeName="opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/>ネ</tspan>
+      <tspan x="0" y="60"><animate attributeName="opacity" values="1;0.4;1" dur="1.4s" repeatCount="indefinite"/>7</tspan>
+      <tspan x="0" y="80"><animate attributeName="opacity" values="1;0.1;1" dur="0.6s" repeatCount="indefinite"/>文</tspan>
+      <tspan x="0" y="100"><animate attributeName="opacity" values="1;0.3;1" dur="1.1s" repeatCount="indefinite"/>3</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 -330" to="0 330"
+                      dur="2.9s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- COLUMN 5 -->
+  <g transform="translate(450,0)">
+    <text font-family="monospace" font-size="18" fill="#00ff41">
+      <tspan x="0" y="20"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/>E</tspan>
+      <tspan x="0" y="40"><animate attributeName="opacity" values="1;0.4;1" dur="0.9s" repeatCount="indefinite"/>日</tspan>
+      <tspan x="0" y="60"><animate attributeName="opacity" values="1;0.1;1" dur="1.5s" repeatCount="indefinite"/>ア</tspan>
+      <tspan x="0" y="80"><animate attributeName="opacity" values="1;0.3;1" dur="0.7s" repeatCount="indefinite"/>7</tspan>
+      <tspan x="0" y="100"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>ラ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 -340" to="0 340"
+                      dur="3.2s" repeatCount="indefinite"/>
   </g>
 
 </svg>
