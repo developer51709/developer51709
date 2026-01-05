@@ -1,71 +1,49 @@
-<svg width="420" height="80" viewBox="0 0 420 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Developer51709 Logo</title>
-  <desc id="desc">Animated typing logo for Developer51709 with blinking cursor.</desc>
+<svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background (transparent for GitHub README) -->
-  <rect width="100%" height="100%" fill="none" />
+  <!-- Background transparent for README -->
+  <rect width="100%" height="100%" fill="none"/>
 
-  <!-- Text group -->
-  <g transform="translate(10, 52)">
-    <!-- The text being "typed" -->
-    <text id="typing-text"
-          x="0"
-          y="0"
-          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-          font-size="28"
-          fill="#ffffff">
-      Developer51709
-    </text>
+  <!-- Particle group -->
+  <g id="particles">
+    <!-- Generate 20 floating particles -->
+    <circle cx="50" cy="90" r="2" fill="#00d8ff">
+      <animate attributeName="cy" from="90" to="10" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="4s" repeatCount="indefinite"/>
+    </circle>
 
-    <!-- Mask to reveal text progressively -->
-    <mask id="typing-mask">
-      <rect id="typing-rect" x="0" y="-30" width="0" height="40" fill="#ffffff">
-        <animate attributeName="width"
-                 from="0"
-                 to="260"
-                 dur="2s"
-                 begin="0s"
-                 fill="freeze"
-                 calcMode="spline"
-                 keySplines="0.25 0.1 0.25 1" />
-      </rect>
-    </mask>
+    <circle cx="120" cy="95" r="2" fill="#00d8ff">
+      <animate attributeName="cy" from="95" to="15" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="5s" repeatCount="indefinite"/>
+    </circle>
 
-    <!-- Text with mask applied -->
-    <text x="0"
-          y="0"
-          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-          font-size="28"
-          fill="#ffffff"
-          mask="url(#typing-mask)">
-      Developer51709
-    </text>
+    <circle cx="200" cy="100" r="2" fill="#00d8ff">
+      <animate attributeName="cy" from="100" to="20" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="6s" repeatCount="indefinite"/>
+    </circle>
 
-    <!-- Blinking cursor -->
-    <rect id="cursor"
-          x="0"
-          y="-24"
-          width="2"
-          height="30"
-          fill="#00d8ff">
-      <!-- Move cursor along with typing -->
-      <animate attributeName="x"
-               from="0"
-               to="260"
-               dur="2s"
-               begin="0s"
-               fill="freeze"
-               calcMode="spline"
-               keySplines="0.25 0.1 0.25 1" />
-      <!-- Blink after typing finishes -->
-      <animate attributeName="opacity"
-               values="1;0;1"
-               dur="0.8s"
-               begin="2s"
-               repeatCount="indefinite" />
-    </rect>
+    <circle cx="280" cy="92" r="2" fill="#00d8ff">
+      <animate attributeName="cy" from="92" to="12" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="360" cy="98" r="2" fill="#00d8ff">
+      <animate attributeName="cy" from="98" to="18" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="440" cy="94" r="2" fill="#00d8ff">
+      <animate attributeName="cy" from="94" to="14" dur="6.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="6.2s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <!-- Dark background helper for local preview (comment out for README if desired) -->
-  <!-- <rect x="0" y="0" width="100%" height="100%" fill="#0d1117" /> -->
+  <!-- Bold Logo Text -->
+  <text x="50%" y="65%" text-anchor="middle"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="40"
+        font-weight="700"
+        fill="#00d8ff">
+    Developer51709
+  </text>
+
 </svg>
