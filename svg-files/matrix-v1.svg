@@ -1,5 +1,9 @@
 <svg width="400" height="200" viewBox="0 0 400 200"
      xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Black background -->
+  <rect width="100%" height="100%" fill="black"/>
+
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#00ff7f" stop-opacity="0"/>
@@ -26,59 +30,41 @@
     </symbol>
   </defs>
 
-  <rect width="100%" height="100%" fill="black"/>
-
-  <!-- Column 1 -->
+  <!-- Columns -->
   <use href="#column" x="20">
-    <animateTransform attributeName="transform"
-                      type="translate"
+    <animateTransform attributeName="transform" type="translate"
                       from="0 -220" to="0 220"
-                      dur="3s"
-                      repeatCount="indefinite"/>
+                      dur="3s" repeatCount="indefinite"/>
   </use>
 
-  <!-- Column 2 -->
   <use href="#column" x="80">
-    <animateTransform attributeName="transform"
-                      type="translate"
+    <animateTransform attributeName="transform" type="translate"
                       from="0 -260" to="0 260"
-                      dur="2.5s"
-                      repeatCount="indefinite"/>
+                      dur="2.5s" repeatCount="indefinite"/>
   </use>
 
-  <!-- Column 3 -->
   <use href="#column" x="140">
-    <animateTransform attributeName="transform"
-                      type="translate"
+    <animateTransform attributeName="transform" type="translate"
                       from="0 -240" to="0 240"
-                      dur="3.5s"
-                      repeatCount="indefinite"/>
+                      dur="3.5s" repeatCount="indefinite"/>
   </use>
 
-  <!-- Column 4 -->
   <use href="#column" x="200">
-    <animateTransform attributeName="transform"
-                      type="translate"
+    <animateTransform attributeName="transform" type="translate"
                       from="0 -230" to="0 230"
-                      dur="2.8s"
-                      repeatCount="indefinite"/>
+                      dur="2.8s" repeatCount="indefinite"/>
   </use>
 
-  <!-- Column 5 -->
   <use href="#column" x="260">
-    <animateTransform attributeName="transform"
-                      type="translate"
+    <animateTransform attributeName="transform" type="translate"
                       from="0 -250" to="0 250"
-                      dur="3.2s"
-                      repeatCount="indefinite"/>
+                      dur="3.2s" repeatCount="indefinite"/>
   </use>
 
-  <!-- Column 6 -->
   <use href="#column" x="320">
-    <animateTransform attributeName="transform"
-                      type="translate"
+    <animateTransform attributeName="transform" type="translate"
                       from="0 -270" to="0 270"
-                      dur="2.9s"
-                      repeatCount="indefinite"/>
+                      dur="2.9s" repeatCount="indefinite"/>
   </use>
+
 </svg>
