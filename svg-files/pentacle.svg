@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="300"
@@ -5,12 +6,10 @@
   viewBox="0 0 200 200">
 
   <style>
-    /* Dark background */
     svg {
-      background: #05060a;
+      background: #080000;
     }
 
-    /* Slow rotation of the whole group */
     .pentacle-rotate {
       transform-origin: 100px 100px;
       animation: rotate 40s linear infinite;
@@ -21,7 +20,6 @@
       to   { transform: rotate(360deg); }
     }
 
-    /* Faint glow pulse */
     .glow {
       filter: url(#glow-filter);
       animation: glowPulse 3.5s ease-in-out infinite;
@@ -29,22 +27,22 @@
 
     @keyframes glowPulse {
       0%, 100% { opacity: 0.35; }
-      50%      { opacity: 0.9; }
+      50%      { opacity: 1; }
     }
   </style>
 
   <defs>
-    <!-- Soft cyan glow -->
+    <!-- Deep red glow -->
     <filter id="glow-filter" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="blur" />
       <feColorMatrix
         in="blur"
         type="matrix"
         values="
-          0 0 0 0 0.4
-          0 0 0 0 0.9
-          0 0 0 0 1
-          0 0 0 0.8 0" />
+          1 0 0 0 0.4
+          0 0 0 0 0
+          0 0 0 0 0
+          0 0 0 0.9 0" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
@@ -52,21 +50,18 @@
     </filter>
   </defs>
 
-  <!-- Everything inside this group rotates and glows -->
   <g class="pentacle-rotate glow">
-    <!-- Outer circle -->
     <circle
       cx="100"
       cy="100"
       r="88"
       fill="none"
-      stroke="#66ccff"
+      stroke="#aa0000"
       stroke-width="3" />
 
-    <!-- Pentacle (5-pointed star) -->
     <polygon
       fill="none"
-      stroke="#99e6ff"
+      stroke="#dd0000"
       stroke-width="4"
       stroke-linejoin="round"
       points="
