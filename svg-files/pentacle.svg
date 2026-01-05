@@ -64,28 +64,28 @@
             stroke-width="2"
             class="wobble" />
 
-    <!-- Pentagram (⛤-style, with micro wobble) -->
-    <!-- Points are slightly nudged to feel hand-drawn but still symmetrical -->
+    <!-- TRUE ⛤-style pentagram with micro wobble -->
     <path
       d="
-        M 100 28
-        L 118 74
-        L 167 74
-        L 127 103
-        L 142 150
-        L 100 125
-        L 58 150
-        L 73 103
-        L 33 74
-        L 82 74
+        M 100 22
+        L 121 78
+        L 180 78
+        L 132 112
+        L 150 168
+        L 100 138
+        L 50 168
+        L 68 112
+        L 20 78
+        L 79 78
         Z
       "
       fill="none"
       stroke="#dd0000"
       stroke-width="4"
-      stroke-linejoin="round" />
+      stroke-linejoin="round"
+    />
 
-    <!-- Hybrid runes around the circle -->
+    <!-- Hybrid runes -->
     <g fill="#dd0000" font-size="10" font-family="serif">
       <text x="100" y="12" text-anchor="middle">ᚱ</text>
       <text x="145" y="22" transform="rotate(30 145 22)">ᛗ</text>
