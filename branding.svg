@@ -1,0 +1,71 @@
+<svg width="420" height="80" viewBox="0 0 420 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Developer51709 Logo</title>
+  <desc id="desc">Animated typing logo for Developer51709 with blinking cursor.</desc>
+
+  <!-- Background (transparent for GitHub README) -->
+  <rect width="100%" height="100%" fill="none" />
+
+  <!-- Text group -->
+  <g transform="translate(10, 52)">
+    <!-- The text being "typed" -->
+    <text id="typing-text"
+          x="0"
+          y="0"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="28"
+          fill="#ffffff">
+      Developer51709
+    </text>
+
+    <!-- Mask to reveal text progressively -->
+    <mask id="typing-mask">
+      <rect id="typing-rect" x="0" y="-30" width="0" height="40" fill="#ffffff">
+        <animate attributeName="width"
+                 from="0"
+                 to="260"
+                 dur="2s"
+                 begin="0s"
+                 fill="freeze"
+                 calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </mask>
+
+    <!-- Text with mask applied -->
+    <text x="0"
+          y="0"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+          font-size="28"
+          fill="#ffffff"
+          mask="url(#typing-mask)">
+      Developer51709
+    </text>
+
+    <!-- Blinking cursor -->
+    <rect id="cursor"
+          x="0"
+          y="-24"
+          width="2"
+          height="30"
+          fill="#00d8ff">
+      <!-- Move cursor along with typing -->
+      <animate attributeName="x"
+               from="0"
+               to="260"
+               dur="2s"
+               begin="0s"
+               fill="freeze"
+               calcMode="spline"
+               keySplines="0.25 0.1 0.25 1" />
+      <!-- Blink after typing finishes -->
+      <animate attributeName="opacity"
+               values="1;0;1"
+               dur="0.8s"
+               begin="2s"
+               repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Dark background helper for local preview (comment out for README if desired) -->
+  <!-- <rect x="0" y="0" width="100%" height="100%" fill="#0d1117" /> -->
+</svg>
