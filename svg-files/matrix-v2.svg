@@ -1,0 +1,114 @@
+<svg width="500" height="300" viewBox="0 0 500 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="black"/>
+
+  <defs>
+    <!-- Fade gradient for trailing characters -->
+    <linearGradient id="trail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00ff41" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- A single column of characters -->
+    <symbol id="matrix-col" viewBox="0 0 20 400">
+      <rect width="20" height="400" fill="url(#trail)"/>
+      <text x="10" y="0" text-anchor="middle"
+            font-family="monospace" font-size="18"
+            fill="#00ff41">
+        <!-- Randomized characters -->
+        <tspan x="10" dy="20">ア</tspan>
+        <tspan x="10" dy="20">7</tspan>
+        <tspan x="10" dy="20">中</tspan>
+        <tspan x="10" dy="20">9</tspan>
+        <tspan x="10" dy="20">ネ</tspan>
+        <tspan x="10" dy="20">E</tspan>
+        <tspan x="10" dy="20">ラ</tspan>
+        <tspan x="10" dy="20">3</tspan>
+        <tspan x="10" dy="20">文</tspan>
+        <tspan x="10" dy="20">A</tspan>
+        <tspan x="10" dy="20">日</tspan>
+        <tspan x="10" dy="20">X</tspan>
+        <tspan x="10" dy="20">7</tspan>
+        <tspan x="10" dy="20">ユ</tspan>
+        <tspan x="10" dy="20">5</tspan>
+        <tspan x="10" dy="20">カ</tspan>
+      </text>
+
+      <!-- Bright leading character -->
+      <text x="10" y="20" text-anchor="middle"
+            font-family="monospace" font-size="20"
+            fill="#ccffcc">
+        <tspan>█</tspan>
+      </text>
+    </symbol>
+  </defs>
+
+  <!-- Generate multiple columns with different speeds -->
+  <g>
+    <!-- Column 1 -->
+    <use href="#matrix-col" x="30">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -420" to="0 420"
+                        dur="3s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- Column 2 -->
+    <use href="#matrix-col" x="80">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -450" to="0 450"
+                        dur="2.4s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- Column 3 -->
+    <use href="#matrix-col" x="130">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -430" to="0 430"
+                        dur="3.6s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- Column 4 -->
+    <use href="#matrix-col" x="180">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -460" to="0 460"
+                        dur="2.8s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- Column 5 -->
+    <use href="#matrix-col" x="230">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -440" to="0 440"
+                        dur="3.3s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- Column 6 -->
+    <use href="#matrix-col" x="280">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -470" to="0 470"
+                        dur="2.6s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- Column 7 -->
+    <use href="#matrix-col" x="330">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -430" to="0 430"
+                        dur="3.4s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- Column 8 -->
+    <use href="#matrix-col" x="380">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -460" to="0 460"
+                        dur="2.7s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- Column 9 -->
+    <use href="#matrix-col" x="430">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0 -450" to="0 450"
+                        dur="3.1s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
