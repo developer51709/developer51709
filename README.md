@@ -81,4 +81,4 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 I’m currently accepting coding requests for Discord bots, automation tools, and small utilities.
 
 📧 **Email:** developer51709@proton.me
-💬 **Discord:** developer51709
+💬 **Discord:** .n.y.x.e.n.
