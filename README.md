@@ -86,3 +86,7 @@ I’m currently accepting coding requests for Discord bots, automation tools, an
 
 📧 **Email:** developer51709@proton.me
 💬 **Discord:** n.y.x.e.n
+
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1479968201319125013)](https://dsc.gg/astral-haven)
