@@ -89,4 +89,4 @@ I’m currently accepting coding requests for Discord bots, automation tools, an
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1479968201319125013)](https://dsc.gg/astral-haven)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1479968201319125013?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1479968201319125013)
