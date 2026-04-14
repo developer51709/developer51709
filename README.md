@@ -1,7 +1,10 @@
-<!-- Header Banner -->
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/developer51709/developer51709/main/banner.svg" width="100%">
 </p>
+-->
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=developer51709\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/developer51709)
 
 ---
 
@@ -82,4 +85,4 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 I’m currently accepting coding requests for Discord bots, automation tools, and small utilities.
 
 📧 **Email:** developer51709@proton.me
-💬 **Discord:** .n.y.x.e.n.
+💬 **Discord:** n.y.x.e.n
