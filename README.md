@@ -12,7 +12,7 @@
 <p align="center"><strong>Developer • Automation Builder • Discord Bot Engineer</strong></p>
 
 <p align="center">
-  <a href="https://developer51709.gt.tc">🌐 Website</a> •
+  <a href="https://nyxen.is-a.dev">🌐 Website</a> •
   <a href="mailto:developer51709@proton.me">📧 Email</a> •
   <a href="https://github.com/developer51709?tab=followers">⭐ Follow</a>
 </p>
@@ -85,7 +85,7 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 I’m currently accepting coding requests for Discord bots, automation tools, and small utilities.
 
 📧 **Email:** developer51709@proton.me
-💬 **Discord:** n.y.x.e.n
+💬 **Discord:** nyxenwastaken
 
 ---
 
