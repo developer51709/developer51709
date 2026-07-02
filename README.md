@@ -8,13 +8,14 @@
 
 ---
 
-<h1 align="center">𝐍𝐲𝐱𝐞𝐧</h1>
+<h1 align="center">Nyxen</h1>
 <p align="center"><strong>Developer • Automation Builder • Discord Bot Engineer</strong></p>
 
 <p align="center">
   <a href="https://nyxen.is-a.dev">🌐 Website</a> •
   <a href="mailto:developer51709@proton.me">📧 Email</a> •
-  <a href="https://github.com/developer51709?tab=followers">⭐ Follow</a>
+  <a href="https://github.com/developer51709?tab=followers">⭐ Follow</a> •
+  <a href="https://github.com/developer51709/developer51709/tree/d4aac28a12da5eb7afdb61b256d5674d24783e23/public_keys">🔐 Public Keys</a>
 </p>
 
 ---
@@ -23,7 +24,7 @@
 I'm a young developer focused on building automation tools, Discord bots, and lightweight utilities. I enjoy solving problems with code, experimenting with APIs, and creating systems that run reliably on their own.
 
 - 🔧 Currently building: **Discord bots & automation pipelines**
-- 📚 Learning: **JavaScript, Python, cybersecurity basics**
+- 📚 Learning: **AI Automation Integrations**
 - 🤝 Open to: **Coding requests, collaborations, and small freelance tasks**
 
 ---
