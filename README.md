@@ -90,4 +90,5 @@ I’m currently accepting coding requests for Discord bots, automation tools, an
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1495618222488162439?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1495618222488162439)
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/1495618222488162439?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1495618222488162439) -->
+[![My Discord Profile](https://discord.dog/nyxenwastaken.png)](https://discord.com/users/1495618222488162439)
