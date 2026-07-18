@@ -65,19 +65,9 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developer51709&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer51709&theme=tokyonight" height="150">
-</p>
-
-<p align="center">
+  <img src="./gitbanner.svg">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer51709&theme=tokyonight">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer51709&theme=tokyonight">
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developer51709&theme=tokyonight&no-frame=true&row=1&column=6">
 </p>
 
 ---
@@ -90,5 +80,4 @@ I’m currently accepting coding requests for Discord bots, automation tools, an
 
 ---
 
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/1495618222488162439?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1495618222488162439)
-[![My Discord Profile](https://discord.dog/nyxenwastaken.png)](https://discord.com/users/1495618222488162439) -->
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/1052690741874401360?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1052690741874401360) -->
