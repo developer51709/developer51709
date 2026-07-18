@@ -1,10 +1,6 @@
-<!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/developer51709/developer51709/main/banner.svg" width="100%">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=developer51709&data=followers,repositories,stars,commits&theme=midnight">
 </p>
--->
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=developer51709\&data=followers,repositories,stars,commits\&theme=viridescent)](https://github.com/developer51709)
 
 ---
 
@@ -38,25 +34,12 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 
 ## 📂 Featured Projects
 
-<details>
-<summary><strong>🟦 Discord Bots</strong></summary>
-
 | Project | Description |
 |--------|-------------|
 | **[Niko](https://github.com/developer51709/Niko)** | Niko is a easy to use ai chatbot for discord that includes many different features and commands as well as a modular cog system and regular updates. |
 | **[Terminal Announcement Bot](https://github.com/developer51709/Terminal-Based-Announcement-Bot-For-Discord)** | CLI tool for sending announcements to Discord servers. |
 | **[Discord DM Bot](https://github.com/developer51709/Discord-DM-Bot)** | Automates sending DMs to server members with customizable settings. |
-| **Auto-Responder Bot** | Keyword-based smart reply system. |
-
-</details>
-
-<details>
-<summary><strong>🟩 Automation & Utilities</strong></summary>
-
-| Project | Description |
-|--------|-------------|
 | **[HelixDB](https://github.com/developer51709/HelixDB)** | A lightweight, local‑first database engine built for modern applications — corruption‑resistant, high‑performance, and designed for both development and production. Includes built‑in backups, recovery, and a simple HTTP/JSON API for Node.js and Python. |
-| **Quote of the Day System** | GitHub Actions script that updates your README daily. |
 
 </details>
 
@@ -80,4 +63,4 @@ I’m currently accepting coding requests for Discord bots, automation tools, an
 
 ---
 
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/1052690741874401360?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1052690741874401360) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1052690741874401360?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1052690741874401360)
