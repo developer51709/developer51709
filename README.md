@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">Nyxen</h1>
+<h1 align="center">Soren</h1>
 <p align="center"><strong>Developer • Automation Builder • Discord Bot Engineer</strong></p>
 
 <p align="center">
@@ -86,9 +86,9 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 I’m currently accepting coding requests for Discord bots, automation tools, and small utilities.
 
 📧 **Email:** developer51709@proton.me
-💬 **Discord:** nyxenwastaken
+💬 **Discord:** sorenthedev
 
 ---
 
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/1495618222488162439?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1495618222488162439) -->
-[![My Discord Profile](https://discord.dog/nyxenwastaken.png)](https://discord.com/users/1495618222488162439)
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/1495618222488162439?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1495618222488162439)
+[![My Discord Profile](https://discord.dog/nyxenwastaken.png)](https://discord.com/users/1495618222488162439) -->
