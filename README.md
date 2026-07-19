@@ -1,9 +1,10 @@
+<!--
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=developer51709&data=followers,repositories,stars,commits&theme=midnight">
 </p>
 
 ---
-
+-->
 <h1 align="center">Soren</h1>
 <p align="center"><strong>Developer • Automation Builder • Discord Bot Engineer</strong></p>
 
@@ -48,9 +49,12 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <!--
   <img src="./gitbanner.svg">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer51709&theme=tokyonight">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer51709&theme=tokyonight">
+  -->
+  <img src="https://raw.githubusercontent.com/developer51709/github-stats/main/svg/stats-tokyo-night.svg">
 </p>
 
 ---
