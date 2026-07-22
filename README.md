@@ -1,12 +1,5 @@
-<!--
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=developer51709&data=followers,repositories,stars,commits&theme=midnight">
-</p>
-
----
--->
 <h1 align="center">Soren</h1>
-<p align="center"><strong>Developer • Automation Builder • Discord Bot Engineer</strong></p>
+<p align="center"><strong>Full‑stack Developer • Discord Infrastructure Engineer • Automation Builder</strong></p>
 
 <p align="center">
   <a href="https://soren.is-a.dev">🌐 Website</a> •
@@ -18,11 +11,12 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a young developer focused on building automation tools, Discord bots, and lightweight utilities. I enjoy solving problems with code, experimenting with APIs, and creating systems that run reliably on their own.
+I’m a full‑stack developer who enjoys building reliable systems, modern dashboards, and Discord bots with a focus on clean design and a great user experience.  
+I work across automation tools, bot infrastructure, and full‑stack applications — always aiming to make things stable, intuitive, and enjoyable to use.
 
-- 🔧 Currently building: **Discord bots & automation pipelines**
-- 📚 Learning: **AI Automation Integrations**
-- 🤝 Open to: **Coding requests, collaborations, and small freelance tasks**
+- 🔧 Currently building: **Discord bots, automation tools, and full‑stack dashboards**
+- 📚 Learning: **AI automation integrations**
+- 🤝 Open to: **collaborations, coding requests, and small freelance tasks**
 
 ---
 
@@ -37,25 +31,14 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 
 | Project | Description |
 |--------|-------------|
-| **[Niko](https://github.com/developer51709/Niko)** | Niko is a easy to use ai chatbot for discord that includes many different features and commands as well as a modular cog system and regular updates. |
-| **[Terminal Announcement Bot](https://github.com/developer51709/Terminal-Based-Announcement-Bot-For-Discord)** | CLI tool for sending announcements to Discord servers. |
+| **[Niko](https://github.com/developer51709/Niko)** | A friendly, modular AI chatbot for Discord with a clean design, easy setup, and regular updates. |
+| **[Terminal Announcement Bot](https://github.com/developer51709/Terminal-Based-Announcement-Bot-For-Discord)** | A simple CLI tool for sending announcements to Discord servers. |
 | **[Discord DM Bot](https://github.com/developer51709/Discord-DM-Bot)** | Automates sending DMs to server members with customizable settings. |
-| **[HelixDB](https://github.com/developer51709/HelixDB)** | A lightweight, local‑first database engine built for modern applications — corruption‑resistant, high‑performance, and designed for both development and production. Includes built‑in backups, recovery, and a simple HTTP/JSON API for Node.js and Python. |
-
-</details>
+| **[HelixDB](https://github.com/developer51709/HelixDB)** | A lightweight, local‑first database engine with built‑in backups, recovery, and a simple HTTP/JSON API for Node.js and Python. |
 
 ---
 
 ## 📊 GitHub Analytics
-
-<!--
-<p align="center">
-  <img src="./gitbanner.svg">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer51709&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developer51709&theme=tokyonight">
-  <img src="https://raw.githubusercontent.com/developer51709/github-stats/main/svg/stats-tokyo-night.svg">
-</p>
--->
 ![GitHub Stats](https://raw.githubusercontent.com/developer51709/github-stats/main/svg/stats-tokyo-night.svg)
 
 ---
@@ -63,9 +46,13 @@ I'm a young developer focused on building automation tools, Discord bots, and li
 ## 📬 Coding Requests
 I’m currently accepting coding requests for Discord bots, automation tools, and small utilities.
 
-📧 **Email:** developer51709@proton.me
+📧 **Email:** developer51709@proton.me  
 💬 **Discord:** sorenthedev
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1052690741874401360?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true)](https://discord.com/users/1052690741874401360)
+<p align="center">
+  <a href="https://discord.com/users/1052690741874401360">
+    <img src="https://lanyard.cnrad.dev/api/1052690741874401360?idleMessage=Probably%20coding%20something...&theme=dark&showDisplayName=true">
+  </a>
+</p>
