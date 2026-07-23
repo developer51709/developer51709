@@ -22,7 +22,7 @@ I work across automation tools, bot infrastructure, and full‑stack application
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,css,html,react,vite,php,nodejs,github,git,discord,bash,vscode,linux,mysql,sqlite,npm,firebase,cloudflare,replit" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,css,html,react,vite,php,nodejs,github,githubactions,git,discord,discordjs,bash,visualstudio,vscode,linux,mysql,sqlite,mongodb,npm,pnpm,firebase,cloudflare,replit,bash,powershell,electron,gmail,md,windows,linux,ubuntu,stackoverflow,selenium,svg" />
 </p>
 
 ---
