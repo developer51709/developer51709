@@ -16,20 +16,20 @@
       </g>
       <g transform="translate(240, 36)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#6b7280" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z" /></svg></g>
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">2,475</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">2,605</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Total Contributions</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
       <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Niko</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">553</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">555</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">developer51709.gi…</text>
-      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">235</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">246</text>
     
       <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">developer51709</text>
-      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">79</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#22c55e">84</text>
     
     </g>
   
@@ -65,7 +65,7 @@
         <g transform="translate(15, 15)"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 18l6-6-6-6" /><path d="M8 6l-6 6 6 6" /></svg></g>
       </g>
 
-      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">11</text>
+      <text x="32" y="148" class="gb-display" font-size="64" fill="#ffffff">12</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Languages Used</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
@@ -92,28 +92,28 @@
       </g>
     
       <g transform="translate(0, 76)">
+        <rect width="54" height="30" rx="8" fill="#172033" stroke="#fcb32c" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#fcb32c">MDX</text>
+      </g>
+    
+      <g transform="translate(62, 76)">
         <rect width="54" height="30" rx="8" fill="#172033" stroke="#663399" stroke-width="1" stroke-opacity="0.4"/>
         <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#663399">CSS</text>
       </g>
     
-      <g transform="translate(62, 76)">
+      <g transform="translate(124, 76)">
         <rect width="45" height="30" rx="8" fill="#172033" stroke="#00ADD8" stroke-width="1" stroke-opacity="0.4"/>
         <text x="22.5" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#00ADD8">Go</text>
       </g>
     
-      <g transform="translate(115, 76)">
+      <g transform="translate(177, 76)">
         <rect width="54" height="30" rx="8" fill="#172033" stroke="#4F5D95" stroke-width="1" stroke-opacity="0.4"/>
         <text x="27" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#4F5D95">PHP</text>
       </g>
     
       <g transform="translate(0, 114)">
-        <rect width="79" height="30" rx="8" fill="#172033" stroke="#A97BFF" stroke-width="1" stroke-opacity="0.4"/>
-        <text x="39.5" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#A97BFF">Kotlin</text>
-      </g>
-    
-      <g transform="translate(87, 114)">
         <rect width="45" height="30" rx="8" fill="#172033" stroke="#6b7280" stroke-width="1" stroke-opacity="0.4"/>
-        <text x="22.5" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#6b7280">+3</text>
+        <text x="22.5" y="20" text-anchor="middle" class="gb-text-bold" font-size="14" fill="#6b7280">+4</text>
       </g>
     </g>
     </g>
@@ -126,17 +126,17 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="56" fill="#ffffff">27 days</text>
+      <text x="32" y="148" class="gb-display" font-size="56" fill="#ffffff">26 days</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Avg Lifespan</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
       <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">developer51709.gi…</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">193d</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">200d</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">Niko</text>
-      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">177d</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">188d</text>
     
       <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Discord-DM-Bot</text>
       <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#a855f7">70d</text>
@@ -151,20 +151,20 @@
       </g>
       
 
-      <text x="32" y="148" class="gb-display" font-size="56" fill="#ffffff">32 | 70</text>
+      <text x="32" y="148" class="gb-display" font-size="56" fill="#ffffff">35 | 70</text>
       <text x="32" y="186" class="gb-text" font-size="22" fill="#9ca3af">Public | Private</text>
 
       <line x1="32" y1="218" x2="264" y2="218" stroke="#1f2937" stroke-width="1"/>
 
       
       <text x="32" y="250" class="gb-text" font-size="16" fill="#9ca3af">Owned</text>
-      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">102</text>
+      <text x="264" y="250" text-anchor="end" class="gb-mono" font-size="17" fill="#60a5fa">105</text>
     
       <text x="32" y="284" class="gb-text" font-size="16" fill="#9ca3af">Forks of others</text>
-      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#9ca3af">34</text>
+      <text x="264" y="284" text-anchor="end" class="gb-mono" font-size="17" fill="#9ca3af">37</text>
     
       <text x="32" y="318" class="gb-text" font-size="16" fill="#9ca3af">Forks received</text>
-      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">0</text>
+      <text x="264" y="318" text-anchor="end" class="gb-mono" font-size="17" fill="#facc15">2</text>
     
     </g>
   
@@ -184,7 +184,7 @@
       <text x="60" y="44" class="gb-text" font-size="20" fill="#9ca3af">Most active project</text>
 
       <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">Niko</text>
-      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">553 commits</text>
+      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">555 commits</text>
     </g>
   
     <g transform="translate(808, 504)">
@@ -192,8 +192,8 @@
       <g transform="translate(28, 26)"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h7l-1 8 10-12h-7l1-8z" /></svg></g>
       <text x="60" y="44" class="gb-text" font-size="20" fill="#9ca3af">Latest project</text>
 
-      <text x="28" y="108" class="gb-display" font-size="44" fill="#ffffff">AstraCLI</text>
-      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">Started 7/4/2026</text>
+      <text x="28" y="108" class="gb-display" font-size="26" fill="#ffffff">Nightfall-Security-Do…</text>
+      <text x="28" y="152" class="gb-text" font-size="20" fill="#9ca3af">Started 7/25/2026</text>
     </g>
   
     <g transform="translate(1198, 504)">
@@ -229,7 +229,7 @@
         <g transform="translate(14, 14)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20z" /><path d="M12 6v6l4 2" /></svg></g>
       </g>
 
-      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">42</text>
+      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">39</text>
       <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">avg commits per repo</text>
     </g>
   
@@ -241,7 +241,7 @@
         <g transform="translate(14, 14)"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#facc15" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3v6" /><path d="M18 3v6" /><path d="M12 21v-6" /><path d="M6 9a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3" /><path d="M6 9a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /><path d="M18 9a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /><path d="M12 21a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" /></svg></g>
       </g>
 
-      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">0</text>
+      <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">2</text>
       <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">forks received</text>
     </g>
   
@@ -254,8 +254,8 @@
       </g>
 
       <text x="100" y="90" class="gb-display" font-size="44" fill="#ffffff">Python</text>
-      <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">your go-to · 15 repos</text>
+      <text x="100" y="118" class="gb-text" font-size="20" fill="#9ca3af">your go-to · 16 repos</text>
     </g>
   
-  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/developer51709 · 7 followers · 8 following · best year: 2026 (1,369 commits) · updated 2026-07-19 08:28 UTC</text>
+  <text x="800" y="890" text-anchor="middle" class="gb-text" font-size="14" fill="#6b7280">gitbanner · github.com/developer51709 · 6 followers · 8 following · best year: 2026 (1,409 commits) · updated 2026-07-26 08:35 UTC</text>
 </svg>
