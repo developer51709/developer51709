@@ -5,16 +5,21 @@
 </p>
 
 <p align="center">
-  <sub>All cards below are <b>self-hosted</b> at <code>sorenthedev.indevs.in/api/cards/*</code> — live GitHub data, no third-party hosts.</sub>
+  <a href="https://sorenthedev.indevs.in">
+    <img src="https://sorenthedev.indevs.in/api/cards/about?username=developer51709" width="100%" alt="About — full-stack developer building Discord bots, automation tools and dashboards" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://sorenthedev.indevs.in/api/cards/about?username=developer51709" width="100%" alt="About — full-stack developer building Discord bots, automation tools and dashboards" />
+  <a href="https://sorenthedev.indevs.in">
+    <img src="https://sorenthedev.indevs.in/api/cards/stats?username=developer51709" width="50%" alt="GitHub stats — stars, forks, issues, contributions" /><img src="https://sorenthedev.indevs.in/api/cards/streak?username=developer51709" width="50%" alt="GitHub streak — current and longest" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://sorenthedev.indevs.in/api/cards/stats?username=developer51709" width="50%" alt="GitHub stats — stars, forks, issues, contributions" /><img src="https://sorenthedev.indevs.in/api/cards/streak?username=developer51709" width="50%" alt="GitHub streak — current and longest" />
-  <img src="https://sorenthedev.indevs.in/api/cards/top-langs?username=developer51709" width="50%" alt="Top languages" /><img src="https://sorenthedev.indevs.in/api/cards/activity-graph?username=developer51709" width="50%" alt="Contribution activity graph" />
+  <a href="https://sorenthedev.indevs.in">
+    <img src="https://sorenthedev.indevs.in/api/cards/top-langs?username=developer51709" width="50%" alt="Top languages" /><img src="https://sorenthedev.indevs.in/api/cards/activity-graph?username=developer51709" width="50%" alt="Contribution activity graph" />
+  </a>
 </p>
 
 <p align="center">
@@ -24,7 +29,9 @@
 </p>
 
 <p align="center">
-  <img src="https://sorenthedev.indevs.in/api/cards/contact?username=developer51709" width="100%" alt="Contact — Discord, email, phone" />
+  <a href="https://sorenthedev.indevs.in">
+    <img src="https://sorenthedev.indevs.in/api/cards/contact?username=developer51709" width="100%" alt="Contact — Discord, email, phone" />
+  </a>
 </p>
 
 <p align="center">
