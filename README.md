@@ -4,27 +4,16 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://sorenthedev.indevs.in">
-    <img src="https://sorenthedev.indevs.in/api/cards/about?username=developer51709" width="100%" alt="About — full-stack developer building Discord bots, automation tools and dashboards" />
-  </a>
-</p>
+## About Me
+I'm a full-stack developer who enjoys building reliable systems, modern dashboards, and Discord bots with a focus on clean design and a great user experience. I work across automation tools, bot infrastructure, and full-stack applications — always aiming to make things stable, intuitive, and enjoyable to use.
 
-<p align="center">
-  <a href="https://sorenthedev.indevs.in">
-    <img src="https://sorenthedev.indevs.in/api/cards/streak?username=developer51709" width="50%" alt="GitHub streak — current and longest" /><img src="https://sorenthedev.indevs.in/api/cards/activity-graph?username=developer51709" width="50%" alt="Contribution activity graph" />
-  </a>
-</p>
+## Contact
+**E-mail:** sorenthedev@gmail.com  
+**Phone:** +1 (762) 435-4135  
+**Discord:** `soren.xd`  
+<sub>I usually respond <b>quickest on Discord</b></sub>
 
-<p align="center">
-  <a href="https://sorenthedev.indevs.in">
-    <img src="https://sorenthedev.indevs.in/api/cards/contact?username=developer51709" width="100%" alt="Contact — Discord, email, phone" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>⚡ I usually respond <b>quickest on Discord</b> — <code>@soren.xd</code> · Email for commissions & longer threads · Text preferred for phone (ET)</sub>
-</p>
+---
 
 <p align="center">
   <a href="https://niko.sryze.cc/team/1052690741874401360"><img src="https://niko.sryze.cc/staff/1052690741874401360/card.svg" /></a>
