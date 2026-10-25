@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sorenthedev.indevs.in">
-    <img src="https://sorenthedev.indevs.in/api/cards/banner?username=developer51709" width="100%" alt="Soren — Full-stack Developer · Discord Infrastructure Engineer" />
+    <img src="https://sorenthedev.indevs.in/api/cards/banner?username=developer51709" width="100%" alt="Soren — Full-stack Developer · Automations & Infrastructure Engineer" />
   </a>
 </p>
 
@@ -12,19 +12,7 @@
 
 <p align="center">
   <a href="https://sorenthedev.indevs.in">
-    <img src="https://sorenthedev.indevs.in/api/cards/stats?username=developer51709" width="50%" alt="GitHub stats — stars, forks, issues, contributions" /><img src="https://sorenthedev.indevs.in/api/cards/streak?username=developer51709" width="50%" alt="GitHub streak — current and longest" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://sorenthedev.indevs.in">
-    <img src="https://sorenthedev.indevs.in/api/cards/top-langs?username=developer51709" width="50%" alt="Top languages" /><img src="https://sorenthedev.indevs.in/api/cards/activity-graph?username=developer51709" width="50%" alt="Contribution activity graph" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://sorenthedev.indevs.in">
-    <img src="https://sorenthedev.indevs.in/api/cards/stack?username=developer51709" width="100%" alt="Tech stack — live language breakdown" />
+    <img src="https://sorenthedev.indevs.in/api/cards/streak?username=developer51709" width="50%" alt="GitHub streak — current and longest" /><img src="https://sorenthedev.indevs.in/api/cards/activity-graph?username=developer51709" width="50%" alt="Contribution activity graph" />
   </a>
 </p>
 
@@ -35,11 +23,11 @@
 </p>
 
 <p align="center">
-  <sub>⚡ I usually respond <b>quickest on Discord</b> — <code>@sorenthedev</code> · Email for commissions & longer threads · Text preferred for phone (ET)</sub>
+  <sub>⚡ I usually respond <b>quickest on Discord</b> — <code>@soren.xd</code> · Email for commissions & longer threads · Text preferred for phone (ET)</sub>
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1052690741874401360"><img src="https://lanyard.cnrad.dev/api/1052690741874401360?theme=dark&bg=060609&borderRadius=18px&idleMessage=Probably%20coding%20something..." width="50%" alt="Discord presence" /></a>
+  <a href="https://niko.sryze.cc/team/1052690741874401360"><img src="https://niko.sryze.cc/staff/1052690741874401360/card.svg" /></a>
 </p>
 
 <p align="center">
