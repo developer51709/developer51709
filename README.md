@@ -16,7 +16,7 @@ I'm a full-stack developer who enjoys building reliable systems, modern dashboar
 ---
 
 <p align="center">
-  <a href="https://niko.sryze.cc/team/1052690741874401360"><img src="https://niko.sryze.cc/staff/soren.xd/card.svg" /></a>
+  <a href="https://niko.sryze.cc/team/soren.xd"><img src="https://dash.niko.sryze.cc/staff/1052690741874401360/card.svg" /></a>
 </p>
 
 <p align="center">
